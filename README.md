@@ -1,4 +1,4 @@
-# Devopsdays Amsterdam 2020: GitHub Actions coding challenge (Wall of Zen)
+# devopsdays oNLine: GitHub Actions coding challenge (Wall of Zen)
 
 GitHub Actions is all the craze and to get you up to speed, we have created a series of **5 short coding challenges**. You will have to create a GitHub Actions workflow to set up a CI/CD pipeline for a Docker-based Node.js application.
 
@@ -9,7 +9,7 @@ Thanks for participating in this coding challenge and keep learning! We have an 
 
 ## What's this Wall of Zen?
 
-We have created a [Wall of Zen page](https://aka.ms/wallofzen) where you can post Zen quotes for the Devopsdays attendees. Under the hood it uses the [Octocat GitHub API](https://api.github.com/octocat).
+We have created a [Wall of Zen page](https://aka.ms/wallofzen) where you can post Zen quotes for the [devopsdays oNLine](https://devopsdays.org/events/2020-amsterdam/welcome/) attendees. Under the hood it uses the [Octocat GitHub API](https://api.github.com/octocat).
 
 
 ![Wall of Zen web page](./assets/wallofzen.png)

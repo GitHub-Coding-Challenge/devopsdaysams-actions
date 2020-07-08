@@ -2,7 +2,7 @@
 
 > Parts of this section are replicated in the [README](README.md) for convenience
 
-The #devopswallofzen coding challenge will happen on July 9, 2020, during Devopsdays Online Amsterdam. Be among the first contributors and solve the challenges. Then submit your solution to this repo, as described below.
+The #devopswallofzen coding challenge will happen on July 9, 2020, during [devopsdays oNLine](https://devopsdays.org/events/2020-amsterdam/welcome/). Be among the first contributors and solve the challenges. Then submit your solution to this repo, as described below.
 
 ## Contributing 🚩
 
