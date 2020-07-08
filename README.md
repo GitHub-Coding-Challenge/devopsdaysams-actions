@@ -42,7 +42,7 @@ To complete this first coding challenge, you will have to:
 
 ## Challenge 2: building a docker image and publishing it
 
-Now that you have a GitHub Actions workflow up and running, which is triggered each time you push code to your main branch, the next step is to checkout the source code and create a Docker image for. Have a look at the [GitHub Actions marketplace](https://github.com/marketplace?type=actions?ocid=aid3016779) for community actions that you can leverage.
+Now that you have a GitHub Actions workflow up and running, which is triggered each time you push code to your main branch, the next step is to checkout the source code and create the Docker image. Have a look at the [GitHub Actions marketplace](https://github.com/marketplace?type=actions?ocid=aid3016779) for community actions that you can leverage.
 
 The sample application is a Node.js application that exposes a REST API (http://localhost/addtowall) to post a random zen quote on our [Wall of Zen](https://aka.ms/wallofzen). 
 
