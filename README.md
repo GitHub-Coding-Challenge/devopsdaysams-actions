@@ -99,30 +99,7 @@ The output of the REST API is a JSON document. You can grab the ```quote``` fiel
 
 ```json
 { 
-    "quote": "Encourage flow.", 
-    "octocat_quote": "
-               MMM.           .MMM
-               MMMMMMMMMMMMMMMMMMM
-               MMMMMMMMMMMMMMMMMMM      ____________________________
-              MMMMMMMMMMMMMMMMMMMMM    |                            |
-             MMMMMMMMMMMMMMMMMMMMMMM   | Favor focus over features. |
-            MMMMMMMMMMMMMMMMMMMMMMMM   |_   ________________________|
-            MMMM::- -:::::::- -::MMMM    |/
-             MM~:~ 00~:::::~ 00~:~MM
-        .. MMMMM::.00:::+:::.00::MMMMM ..
-              .MM::::: ._. :::::MM.
-                 MMMM;:::::;MMMM
-          -MM        MMMMMMM
-          ^  M+     MMMMMMMMM
-              MMMMMMM MM MM MM
-                   MM MM MM MM
-                   MM MM MM MM
-                .~~MM~MM~MM~MM~~.
-             ~~~~MM:~MM~~~MM~:MM~~~~
-            ~~~~~~==~==~~~==~==~~~~~~
-             ~~~~~~==~==~==~==~~~~~~
-                 :~==~==~==~==~~
-        "
+    "quote": "Encourage flow."
 }
 ```
 
